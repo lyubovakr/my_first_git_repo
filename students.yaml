@@ -1,0 +1,27 @@
+student:
+  name:Lena
+  greeting: "Lena \"Kot\"Tomson"
+  age: 20.5
+  height: 1.58
+  married: False
+  children: null
+  value : "I'm a human, \n I need food"
+  story: >
+   Lena was born 
+   on 1st of May
+   and this is cool
+  bio:  |
+   Born
+   Went to kindergarten
+   Went to primary school
+  friends: [Mary,Simon] 
+  enemies:
+      -Marry
+      -Lukas
+  adress: 
+   mailing:
+    country: UA
+    city: Kiev
+   actual:
+    country: UA
+    city: Lviv

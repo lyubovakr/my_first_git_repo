@@ -1,0 +1,13 @@
+}
+"firstName": "Lena",
+"lastName": "Kot",
+"age": 20,
+"taxID": null,
+"parents": ["mother",50,false,true],
+"adress": {
+	"country":"Ukraine",
+	"city":"Kiev",
+	" zip": 01001,
+	" postal": true,
+   }
+}
