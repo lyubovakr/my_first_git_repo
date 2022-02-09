@@ -1,0 +1,17 @@
+<students>
+	<student id = "1" name ="Lena" gender = "F">
+	  <activities>
+	  	<internal>
+	  		<activing date = "01.01.2020"  description ="party"/>
+	  		<activing date = "02.01.2020"  description ="afterparty"/>
+	  	</internal>
+	  	<public>
+	  		<activity date = "02.01.2020"  description ="afterparty"/>
+	  	</public>	
+	  	<social>
+	  		<activity description ="home visit"/>
+	  	<social/>
+	  <activities/>
+	 </student>
+	  <student id = "2" name ="Mary" gender = "F">
+	</students> 
